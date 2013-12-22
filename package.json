@@ -50,6 +50,7 @@
     "polvo-jade": "0.2.x",
     "polvo-stylus": "0.1.x",
     "polvo-css": "0.1.x",
+    "polvo-cc": "*",
     "humanize": "0.0.x"
   },
   "devDependencies": {
